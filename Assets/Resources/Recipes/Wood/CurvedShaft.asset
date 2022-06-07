@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe80e78d8a85264fa9149f1214e545d, type: 3}
+  m_Name: CurvedShaft
+  m_EditorClassIdentifier: 
+  usedCard: {fileID: 11400000, guid: 2939e383634d6f147ad6e8cee968793f, type: 2}
+  destinationCard: {fileID: 11400000, guid: 3b5471fe7221e59499df261b0c5de04b, type: 2}
+  result: {fileID: 11400000, guid: 01da32d55146ff146a8eff202153beb4, type: 2}
+  bothWays: 0
+  keepsUsedCard: 1
+  keepsDestinationCard: 0
